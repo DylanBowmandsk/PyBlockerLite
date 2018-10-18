@@ -1,0 +1,8 @@
+# Add website URLs below to add to the block list
+# Seperate URLs with a new line
+#
+# For example:
+#
+#	www.facebook.com
+#	www.reddit.com
+#	www.gmail.com
